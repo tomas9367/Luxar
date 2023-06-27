@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "7NBEfofdSmjTapAuFHysiYLMP5H5377y8v3tUh7KnPmX",
+  "symbol": "LUX",
+  "name": "LUXAR",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/tomas9367/Luxar/135bf931f61c67a18e27f4c4705a72ffc629bc08/logo/LUXAR.png",
+  "extensions": {
+    "description": "LUXAR token on Solana blockchain",
+    "gitub": "https://github.com/tomas9367/Luxar",
+  }
+}
